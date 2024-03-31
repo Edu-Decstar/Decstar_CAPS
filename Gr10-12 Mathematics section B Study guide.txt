@@ -1,0 +1,3388 @@
+﻿SECTION B
+GRADE 10-12
+Abridged Section 4 for Grades 10 - 12 2022
+SUBJECT GUIDELINES
+Based on CAPS subject requirements
+
+MATHEMATICS
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 2
+1. SUBJECT STATEMENT
+• What is Mathematics?
+Mathematics is the study of numbers, shapes and relationships between them. It is a
+language that attempts to describe the world in abstract terms that can be modified and
+therefor often simplified in this language. One can therefor give the student of Mathematics
+insight, circumspection, foresight and a measure of control in that areas of reality that can
+be so described.
+Mathematics is one of the most important subjects for University degrees purposes for two
+reasons:
+- It forms the basis for most Scientific Degrees and is fundamental also to most
+commercial degrees too.
+- It is one of the most challenging subjects and students who perform well in it show
+evidence of hard work and insight into critical thinking and problem solving.
+Mathematics however is not expressly only taught to prepare students for university but
+rather to teach students invaluable cognitive skills that can be applied in almost any
+sphere of life. It is not the intention of the curriculum to be relevant or relate to real life but
+rather to produce minds that can reason using Mathematical principles in their relevant
+interests and real lives.
+Therefor encourage your students not to study to pass an exam, but rather to endeavour
+to think; to grapple to understand absolutely every aspect of the content and to apply their
+new reasoning in the way they live and make decisions.
+• Aims of subject.
+- To develop fluency in computation skills without relying on the usage of calculators.
+- To provide the opportunity to develop in learners the ability to be methodical, to
+generalize, make conjectures and try to justify or prove them.
+- To be able to understand and work with number system.
+- To promote accessibility of Mathematical content to all learners. It could be
+achieved by catering for learners with different needs.
+- To develop problem-solving and cognitive skills. Teaching should not be limited to
+“how” but should rather feature the “when” and “why” of problem types. Learning
+procedures and proofs without a good understanding of why they are important will
+leave learners ill-equipped to use their knowledge in later life.
+- To prepare the learners for further education and training as well as the world of
+work.
+• Time allocation in the curriculum
+For Grade 10-12 a minimum of 4,5 hours per week must be spent on Mathematics.
+• Requirements to offer Mathematics as a subject
+- A competent Mathematics Teacher
+- Or a SACAI registered service provider.
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 3
+
+2. COGNITIVE LEVELS
+Understanding the Cognitive Level is very important in both teaching and assessments. In Mathematics, we distinguish between 4 cognitive levels:
+Knowledge, Routine Procedures, Complex Procedures and Problem Solving.
+In a later section a thorough explanation and allocation of skills will be assigned to the different cognitive levels but for now here follows a brief
+explanation of each cognitive skill
+
+Knowledge Routine Procedures Complex Procedures Problem Solving
+
+Final Exam
+Weighting* 20% 35% 30% 15%
+
+Content
+
+Knowledge forms the
+foundation of the content that
+is to be learnt. It is that
+content that students must
+know off by heart.
+
+Routine Procedures are the
+standard methods and
+application of the theory. It is
+typically the examples shown
+in class or in the textbooks.
+
+Complex Procedures may
+also be a standard method
+but then it involves
+application from various
+topics or multiple steps to find
+solutions.
+
+Problem solving is not
+expressly taught in content
+but rather it is the overall aim
+of the subject: to solve
+problems and use the content
+of the lower levels to do so.
+
+In Assessments
+
+In assessments, knowledge
+questions are the lowest
+order levels that require
+minimal cognitive functions
+such as recalling, reading of,
+automatic procedures, etc.
+
+These are the types of
+questions that students will
+have encountered in the
+class, textbook examples and
+common practice questions.
+
+This is the type of question
+that usually involves
+combining methods from
+different topics or analysing
+results or questions that are
+just not just a normal
+application of what was
+learnt.
+
+This type of question is not
+necessarily difficult nor does
+it always require complex
+procedures, but before any
+method or application of the
+theory can be made some
+problem must be eliminated
+first or insight into the
+scenario must be recognized.
+Once that has been done the
+rest of the solution may be
+knowledge, routine or
+complex.
+A problem-solving question is
+not a question that students
+have ever seen before
+(therefor do not use questions
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 4
+from past papers as problem
+solving questions).
+
+Expected
+student ability
+
+Student should have the
+knowledge that should come
+without reasoning or
+calculating, but simple recall
+or reading off.
+
+Students should immediately
+know what to do or what
+steps to follow to answer the
+question.
+
+Student should be able to
+figure out which procedures
+to follow to answer these
+questions but not before
+thinking carefully about how
+to proceed.
+
+Only students that think,
+reason and have a good
+grasp of the content will be
+able to solve problems.
+* It is recommended that as much time is spent in the learning program on each topic’s cognitive skills in proportion to the weighting it
+will have in the final exam, however, it is the educator’s responsibility to evaluate if a group should rather focus on the lower levels,
+
+since the higher order levels are impossible if level 1 and 2 is not internalised.
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 5
+
+3. OUTLINE OF CURRICULUM
+3.1 Learning content
+The following is detailed outline of the curriculum content for Grade 10-12. It categorises all the knowledge and skills under the cognitive
+skills for that grade and the weighting that the learning area has in the final exam. This weighting should therefore be a guide to how
+much time in the learning programme is allocated to the topic.
+
+Paper 1
+Algebra
+
+Grade 10 11 12
+Weight in the
+final exam 30% 30% 17%
+
+Level 1
+Knowledge
+(20%)
+
+• Identify Number sets
+• Round real numbers to an appropriate
+degree of accuracy.
+• Multiply binomials
+• Common factor and simple difference
+of two squares factorisation.
+• Simple application of Exponential
+laws (including negative exponents)
+• Solving one or two step linear
+equations.
+
+• Knowledge and routine procedures of
+previous grade
+• Solving quadratic equations with
+simple factorization.
+
+• Simple applications of rational
+exponents.
+• Solving quadratic equations using the
+quadratic formula
+• Calculating the discriminant
+• Converting an expression from
+exponential form to logarithmic form
+and vice versa.
+
+Level 2 Routine
+Procedures
+(35%)
+
+• Establish between which two integers
+a given simple surd lies.
+• Multiplication of a binomial by a
+trinomial.
+• Factorise
+o trinomials
+o simple grouping in pairs
+o sum and difference of two cubes
+• Two or more steps to simplify
+expressions using exponential laws
+• Solve Quadratic equations by
+factorization
+• Solve literal equations
+
+• Simple applications of rational
+exponents.
+• Simplifying expressions with surds
+within a few steps.
+• Rationalising 1 term denominators
+• Completing the square
+• Solving standard quadratic equations
+using the quadratic formula
+• Straight forward application of the
+discriminant (nature of roots)
+• Solving simultaneous equation with
+two unknowns.
+
+• Rationalizing denominators
+• Completing the square (even to find a
+needed format)
+• Solving equations that simplifies to
+quadratic equations
+• Solving quadratic simultaneous
+equations
+• Solving inequalities that simplify to
+quadratic inequalities
+• Solving an unknown in the exponent
+of a standard equation that requires
+the use of logarithms.
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 6
+
+• Solving one or two step power
+equations
+• Solve simple simultaneous equations
+• Solving one or two step exponential
+equations
+• Solving linear inequality
+• Representing the solution of
+inequalities graphically
+
+• Solving quadratic inequalities.
+
+Level 3
+Complex
+Procedures
+(30%)
+
+• Factorization: Grouping in pairs
+• Simplification of algebraic fractions
+using factorisation
+• Simplifying exponential expressions
+requiring factorization of common
+factors.
+• Solving exponential equations
+requiring factorization of common
+factors.
+• Solving simultaneous equation that
+require one or both equations to be
+rewritten in a different format first.
+• Solving compound inequalities.
+
+• Simplifying algebraic fractions with
+exponential expressions that requires
+factorization
+• Solving equation with surds,
+assuming the topic has been
+addressed.
+• Rationalizing two term denominators
+• Using completing the square to
+produce a desired format (as in the
+case of the parabola vertex form)
+• Unusual applications of the nature of
+roots.
+• Equations with fractions that simplify
+to quadratic equations.
+• Unusual quadratic equations.
+• Solving unusual simultaneous
+equations (for example exponential
+equations)
+• Solving simultaneous equations
+graphically
+• Inequalities with an unknown in the
+denominator
+
+• Simplifying algebraic fractions with
+exponential expressions that requires
+factorization
+• Simplifying expressions with
+logarithms that require factorization.
+• Solving equation with surds
+• Unusual applications of the nature of
+roots.
+• Solving unusual simultaneous
+equations (for example exponential
+equations)
+• Solving simultaneous equations
+graphically
+• Inequalities with an unknown in the
+denominator
+• Equations that simplify to a format
+that requires logarithms to solve.
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 7
+
+Functions and Graphs
+
+Grade 10 11 12
+Weight in the
+final exam 30% 30% 23%
+
+Level 1
+Knowledge
+(20%)
+
+• Plotting Points
+• Marks given to the graph y = x
+• Filling in table for functions
+• Point by point plotting of basic
+graphs
+o y = x
+2
+o y =
+1
+x
+o y = b
+x
+where b > 0; b ≠ 1
+o y = sin x
+o y = cos x
+• Write down the asymptotes
+of given functions
+• Write down the domain or
+range of given functions
+
+• Find the x and y intercepts of graphs
+• Find the equation of a function with 1
+unknown parameter.
+
+• Define a function
+
+Level 2 Routine
+Procedures
+(35%)
+
+• Draw graphs based on the
+effect of a and q
+o y = ax
+2 + q
+o y =
+a
+x
++ q
+o y = b
+x + q where b > 0; b ≠
+1
+o y = a sin x + q
+o y = a cos x + q
+• Find the x and y intercepts
+of graphs
+• Find the equation of a
+function with 1 unknown
+parameter.
+
+• Draw graphs based on the effect of any
+two parameters at a time
+o y = a(x − p)
+2 + q
+
+o y =
+a
+x−p
++ q
+o y = cb
+x−p + q where b > 0; b ≠ 1; c ≠ 0
+o y = a sin(kx − p) + q
+o y = a cos(kx − p) + q
+• Find the Turning point of a parabola
+• Find the intersection of the asymptotes for
+a hyperbola
+• Find the equation of a line
+• Find the equation of a parabola given
+o the Turning Point and another point,
+o the roots and another point
+• Find the average gradient between two
+points on a curve
+
+• Show that a function is one-to-
+one
+
+• Find the inverse of basic
+functions
+o y = ax + q
+o y = ax
+2
+o y = b
+x
+
+• Sketch the functions and their
+inverses on the same set of axes.
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 8
+
+Solve for f(x) = g(x) for simple standard
+functions
+
+Level 3
+Complex
+Procedures
+(30%)
+
+• Sketch multiple functions on
+one set of axeis.
+• Find the equation of an
+equation with more than 1
+unknown parameter.
+• Solve for f(x) = g(x)
+• Solve inequalities based on the
+graphs
+• Determine characteristics of a
+function produced from a
+transformation
+o af(x) + q
+o Reflections
+• Evaluating and commenting on
+function properties and their
+graphs
+
+• Sketch multiple functions on one set of
+axes given at least three non-standard
+parameters
+• Find the equation of a parabola in a form
+that is different from the form that should
+be used with the given information.
+• Finding vertical distances between points
+on curves
+• Solve for f(x) = g(x) where f and/or g are
+grade 11 type functions
+• Solve inequalities based on the graphs
+• Determine characteristics of a function
+produced from a transformation
+o af(x − p) + q
+o Reflections
+• Finding the equations of lines of symmetry
+given cryptic information
+• Evaluating and commenting on function
+properties and their graphs
+
+• Multiple knowledge and routine
+procedures in one question
+• Unusual inverse relations or
+functions
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10
+-12
+
+Last updated: July 2021
+
+9
+
+Differential Calculus
+
+Grade 10 11 12
+Weight in the
+final exam 0% 0% 23%
+
+Level 1
+Knowledge
+(20%)
+
+• Find the limit with straight forward
+substitution
+• Find the average gradient between
+two points on a function
+• Define the derivative of a function
+using limits
+• Calculus rate of change application:
+Find the value of a function at a
+certain point.
+
+Level 2
+Routine
+Procedures
+(35%)
+
+• Find the limit of an expression that
+requires simplification first
+• Find the derivative of a function
+from first principles
+o
+y
+=
+a
+x
+2
++ bx
++
+c
+
+o
+y
+=
+a
+x
+3
+o
+y
+=
+ax
+o
+y
+=
+c
+• Find the average gradient between
+two points on a function
+• Find the instantaneous gradient at a
+point using first principles
+• Find the derivative of polynomial
+functions (may require
+simplification)
+• Finding the instantaneous gradient
+at a given point
+• Determine the equation of the
+tangent line to a simple polynomial
+function
+• Finding the turning points of a
+polynomial function
+• Calculus optimization application:
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10
+-12
+
+Last updated: July 2021 10
+write certain aspect of the scenario
+in terms of the independent
+variable.
+• Calculus rate of change application:
+Find the rate of change of a
+function at a certain point.
+
+Level 3
+Complex
+Procedures
+(30%)
+
+• Find the derivative of expression
+with radicals or fractional exponents
+• Unusual expressions to be derived • Find the equation of a tangent to a
+function that requires simplification
+first or only cryptic information is
+given.
+• Finding the roots of a polynomial
+function
+• Solve intervals problems related to
+polynomials and derivatives
+• For which values of
+k will
+f
+(
+x
+)
+=
+k
+
+have
+o one root o two roots o three roots
+• Calculus optimization application:
+The expression that is to be
+optimized is given and one is to
+show that it is indeed the correct
+expression. If the expression is not
+give
+n it may be considered as a
+problem
+-solving question.
+
+• Calculus rate of change application:
+Comment on the rate of change at
+a certain point
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 11
+
+Number Patterns
+
+Grade 10 11 12
+Weight in the
+final exam 15% 17% 17%
+Level 1
+Knowledge
+(20%)
+
+• Find the next (few) term(s) in
+linear number pattern.
+
+• Find the next (few) term(s) in linear or
+Quadratic number patterns.
+• Find the n
+th
+term of a linear number
+
+pattern.
+• Find a term number in the linear number
+pattern.
+
+• Find Tn for arithmetic and Geometric
+sequences given first few terms
+• Marks given to formulas
+• Evaluating where or not a standard
+series will converge or diverge.
+
+Level 2 Routine
+Procedures
+(35%)
+
+• Find the n
+th
+term of a linear
+
+number pattern.
+
+• Find the n
+th
+term of a Quadratic number
+pattern given the first four terms.
+• Find a term's number in a quadratic
+number pattern if the general term is
+already known or calculated.
+
+• Routine Procedures in Grade 11.
+• Finding the sum of the first n terms in
+an arithmetic or geometric series
+given routine information
+• Finding the sum to infinite of the
+converging geometric series given
+routine information.
+• Finding single an unknown value in a
+known sequence or series.
+• Finding the general term or a specific
+term of a known type of sequence,
+given information about other terms.
+• Finding the number of terms in a
+sequence or series given the last term
+• Evaluating a sum notation
+• Finding an interval for an unknown in
+the constant ratio for a converging
+geometric series where the constant
+ratio is straight forward.
+
+Level 3
+Complex
+Procedures
+(30%)
+
+• Find a term's number in a linear
+number pattern, given the first
+few terms.
+• Linear number patterns with
+unknowns making up the
+pattern.
+• Use of inequalities to find a
+
+• Find a term's number in a quadratic
+number pattern.
+• Quadratic number patterns with unknowns
+making up the pattern.
+• Use of inequalities in quadratic number
+patterns to find a solution.
+• General questions surrounding exponential
+
+• Find the general term, specific term or
+sum of terms of a known type of
+series given cryptic information about
+the terms or the sums of terms.
+• Finding a single unknown value in a
+unknown sequence or series.
+• Finding specific information about a
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 12
+
+solution.
+• Simple exponential patterns (not
+addressed in class)
+
+number patterns (not taught in class) sequence given Sn
+
+• Finding the number of terms in a
+series given the sum of the series.
+• Writing a series in sum notation give
+the minimal information (first few
+terms and final term).
+• Finding an unknown in the terms of a
+quadratic sequence.
+• Finding an interval for an unknown in
+the constant ratio for a converging
+geometric series where the constant
+ratio is not straight forward or the
+compound inequality is slightly more
+complex.
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 13
+
+Financial Mathematics
+
+Grade 10 11 12
+Weight in the
+final exam 10% 10% 10%
+
+Level 1
+Knowledge
+(20%)
+
+• Marks for formulas
+• One step conversions
+
+• Marks for standard formulas
+• Gr 10 Routine procedures
+
+• Marks for formulas
+• Solving the future, present value in
+standard growth and decay
+problems.
+• Solving i and n in the simple growth
+and decay problems.
+• Calculating the effective interest rate
+
+Level 2 Routine
+Procedures
+(35%)
+
+• Straight forward application of
+simple and compound interest
+problems.
+• Finding the value in for a certain
+unit given the conversion rate.
+• Comparing different investment.
+
+• Solving the future, present value in
+standard growth and decay problems.
+• Solving i and n in the simple growth
+and decay problems.
+• Calculating the effective interest rate
+
+• Solving i in the compound growth
+and decay problems
+• Calculate the future value, present
+value or recurring payment for
+regular annuities.
+• Solve n in the compound growth and
+decay problems.
+
+Level 3 Complex
+Procedures
+(30%)
+
+• Solving the present value.
+• Hire purchases
+• Finding the amount of interest
+paid/received
+• Multiple step conversion
+problems
+
+• Solving i in the compound growth and
+decay problems.
+• Finding the unknowns of scenarios
+with multiple changes during the
+investment period.
+
+• Find the outstanding balance on a
+loan
+• Changes during the investment
+period
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 14
+
+Probability
+
+Grade 10 11 12
+Weight in the
+final exam 15% 13% 10%
+
+Level 1
+Knowledge
+(20%)
+
+• Calculating probability from
+information that is can be used in one
+step.
+• Marks given for correctly identifying
+the Venn diagram
+• Recalling the definition of mutually
+exclusive events and complimentary
+events
+
+• Applying identities to calculate
+probabilities from straight forward
+information
+o P(A) = 1 − P(not(A))
+o P(A and B) = 0 for mutual
+exclusive events
+o P(A or B) = P(A) + P(B) −
+P(A and B)
+
+• Definition of independent events
+
+• Finding the number of independent
+outcomes in simple scenarios
+
+Level 2
+Routine
+Procedures
+(35%)
+
+• Finding the relative frequency
+• Drawing a Venn diagram given all the
+information
+• Using a Venn diagram to identify
+o Mutually exclusive events
+o Complimentary events
+• Identifying mutually exclusive events
+from their descriptions
+• Calculating probabilities from
+completed frequency tables
+• Calculating probabilities from complete
+information in a Venn diagram
+
+• Identify independent events
+o may involve P(A) × P(B) =
+P(A and B)
+
+• Finding the probability of an event
+from a contingency table
+• Finding the number of combined
+events or probability of combined
+events from a Venn diagram when the
+information is available.
+• Drawing a tree diagram for
+simultaneous events not necessarily
+independent.
+
+• Finding the number of dependent
+outcomes in simple scenarios
+• Calculating the probability of an event
+occurring that requires simple
+application of counting principles
+• Number of arrangements (of letters for
+examples)
+• Probability of a certain arrangement
+occurring.
+
+Level 3
+Complex
+Procedures
+(30%)
+
+• Finding the probability of combined
+events from a Venn diagram when the
+information is available.
+• Completing Venn diagrams with
+limited information
+• Finding probability of events that
+require the completing of a Venn
+diagram with limited information
+• Finding probabilities of events that
+require the use of
+o P(A) = 1 − P(not(A))
+
+• Finding the probability of an event that
+requires the use of a tree diagram (not
+yet drawn)
+• Finding the probability of an event that
+requires the use of a Venn diagram
+(not yet drawn)
+• Drawing Venn diagrams with limited
+information.
+• Show that two events are independent
+using information on a contingency
+table
+
+• Calculating the number of outcomes
+dependent events (especially in word
+problems).
+• Knowledge and Routine procedures
+from real life word problems.
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 15
+
+o P(A and B) = 0 for mutual
+exclusive events
+o P(A or B) = P(A) + P(B) −
+P(A and B)
+
+• Given P(A), P(B) and P(A or B), show
+that A and B are independent.
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 16
+
+Paper 2
+Statistics
+
+Grade 10 11 12
+Weight in
+Final Exam 15% 13% 13%
+
+Level 1
+Knowledge
+(20%)
+
+• Tabular Representations of Data
+• Measures of Central Tendency for
+ungrouped data
+• Measures of Dispersion: Range
+• Marks given to formulas
+
+• Measures of Central Tendency in
+grouped data
+• Measures of Dispersion:
+Interquartile Range
+
+• Histograms
+• Frequency polygons
+• Variance and standard deviation of
+ungrouped data
+• Symmetric and skewed data
+• Identification of outliers
+• Calculating least square regression
+line using calculator
+• Calculate the correlation coefficient
+using a calculator
+
+Level 2
+Routine
+Procedures
+(35%)
+
+• Calculating the measures of central
+tendency in grouped date
+o Estimated Mean
+o Modal Interval
+o Median Interval
+• Calculating the measures of
+dispersion
+o Quartiles
+o Percentiles
+o Interquartile Range
+o Semi-interquartile Range
+• Writing down the five-number
+summary
+• Draw a Box and Whisker diagram
+
+• Draw histograms
+• Draw frequency polygons
+• Draw Ogives (cumulative frequency
+curves)
+• Calculate Variance and standard
+deviation of ungrouped data
+• Determine symmetric and skewed
+data
+o Using measures of Central
+Tendency
+o Using graphical representations of
+data
+• Identification outliers
+o with a calculation
+o in a scatter plots
+o using a box and whisker diagram
+• Use the ogive to estimate the
+quartiles
+
+• Draw a scatter-plot
+• Draw a least square regression line on
+scatter plot
+• Use least square regression line to
+make predictions
+o Interpolation
+o Extrapolation
+
+Level 3
+Complex
+Procedures
+
+• Draw a box and whisker diagram
+from raw data.
+
+• Find the percentage of observations
+that will lie within a given number of
+standard deviations from the mean.
+
+• Use statistical summaries,
+scatterplots, regression and correlation
+to analyse and make meaningful
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 17
+
+(30%) • Given the conditions for a
+distribution, test whether data fits
+that distribution using the measures
+of central tendency and dispersion.
+• Use statistical summaries and
+graphs to analyse and make
+meaningful comments on the
+context associated with given data,
+including discussions on skewness.
+
+comments on the context associated
+with given bivariate data, including
+interpolation, extrapolation and
+discussions on skewness.
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 18
+Analytic Geometry and Measurement
+
+Grade 10 11 12
+Weight in Final
+Exam 15% 20% 27%
+Level 1
+Knowledge
+(20%)
+
+• Marks awarded for formulas
+• Calculating the distance between two
+coordinates
+• Calculate the gradient between two
+coordinates
+
+• Calculate the Midpoint between two
+coordinates
+
+• Find the equation of a circle given the
+centre and the radius
+• Find the coordinates of the centre and
+the radius of a circle from the equation
+in standard format.
+
+Level 2 Routine
+Procedures
+(35%)
+
+• Calculate the Midpoint between two
+coordinates
+• Identify lines that are parallel and
+perpendicular based on there
+gradients.
+
+• Find the equation of a line between
+two points
+• Find the equation of a line though
+one point and parallel to a given line
+• Find the equation of a line through
+one point and perpendicular to a
+given line
+• Find the inclination angle
+o of a line
+o of the line between two points
+
+• Find the equation of a circle given the
+centre and a coordinate on the
+circumference
+• Find the coordinates of the centre and
+radius from the equation of a circle
+that is not in standard format.
+• Find the intersections of a line with a
+circle
+• Determine the equation of a tangent
+line to a circle (centre given) at a given
+point
+
+Level 3 Complex
+Procedures
+(30%)
+
+• Use analytical geometry calculations
+to show that a set of coordinates fits
+the minimum conditions for a certain
+polygon.
+• One questions that relies on multiple
+routine procedures
+
+• Find the angle between two lines that
+intersect.
+• One questions that relies on multiple
+routine procedures
+
+• Find the equation of a tangent to a
+circle not in standard format.
+• One questions that relies on multiple
+routine procedures
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 19
+
+Trigonometry
+
+Grade 10 11 12
+Weight in the
+final exam 40% 34% 27%
+
+Level 1
+Knowledge
+(20%)
+
+• Finding trigonometric ratios from right
+triangles (including reciprocals) where
+information is directly available
+• Find the side length of a right-angle
+triangle given another angle and side
+length or two sides (Pythagoras).
+• Recall trigonometric ratios for the
+special angles up to 90∘
+
+• Simple application or recall of
+fundamental Identities
+• Simple application of co-ratios and
+reduction formulas
+• Gr 10 Routine Procedures
+
+• Simple application and recall of
+compound and double angle
+identities
+
+Level 2
+Routine
+Procedures
+(35%)
+
+• Solve equations of the form: Trig-
+ratio=constant for angles between 0
+
+∘
+
+and 90∘
+• Find an angle in a right-angle triangle
+given 2 side lengths.
+• Use diagrams to determine the
+numerical values of ratios for angles
+from 0
+∘
+to 360∘
+.
+
+• Proving fundamental trigonometric
+identities using a sketch.
+• Using a sketch to find the value of
+trigonometric expressions
+• Simplifying standard trigonometric
+expressions using fundamental
+Identities, co-ratios and reduction
+formulas.
+• Proving standard trigonometric
+identities using fundamental Identities,
+co-ratios and reduction formulas.
+• Finding the values for which an identity
+holds/does not hold.
+• Finding the General solution or specific
+for trigonometric equations.
+• Prove the sine, cosine and area rules
+• Direct application of the sine, cosine
+and area rules.
+
+• Proving compound and double angle
+identities
+• Using a sketch to find the value of
+trigonometric expressions
+• Simplifying standard trigonometric
+expressions using fundamental
+Identities, co-ratios, reduction
+formulas and/or double and
+compound identities.
+• Proving standard trigonometric
+identities using fundamental
+Identities, co-ratios, reduction
+formulas and/or compound and
+double angle identities.
+• Finding the General solution or
+specific for trigonometric equations.
+• Direct application of the sine, cosine
+and area rules.
+
+Level 3
+Complex
+Procedures
+(30%)
+
+• Straight forward 2-dimensional
+trigonometric word problems.
+• Trigonometric equations that requires
+simplification into the correct form firsts.
+
+• Trigonometric problems requiring
+factorization as part of the solution or
+simplification.
+• Trigonometric problems that requires
+an unusual application of the
+fundamental identities.
+
+• Trigonometric problems requiring
+factorization as part of the solution or
+simplification.
+• Trigonometric problems that requires
+an unusual application of identities
+or a specific substitution of cos(2x).
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 20
+
+• Trigonometric equations with sin? ? =
+cos? ? ?.
+• Trigonometric problems that requires
+themes from other topics to help solve
+the problem.
+• Applications of the sine, cosine and
+area rules where that requires more
+than one step or involves variables
+rather than known values where some
+hint or help is included, for example
+"prove that ..." and an expression is
+given.
+
+• Converse applications of the
+compound identities
+• Trigonometric equations with
+sin? ? = cos? ? ?
+• Trigonometric problems that requires
+themes from other topics to help
+solve the problem.
+• Applications of the sine, cosine and
+area rules where that requires more
+than one step or involves variables
+rather than known values where
+some hint or help is included, for
+example "prove that ..." and an
+expression is given.
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 21
+
+Euclidean Geometry
+
+Grade 10 11 12
+Weight in the
+final exam 30% 33% 33%
+
+Level 1
+Knowledge
+(20%)
+
+• Straight forward recall or application
+of results and theory from prior grades
+• Mark given for formulas
+• Recall of definitions and theorems
+• Recalling the definition(s) of similarity
+• Stating the properties of quadrilaterals
+• Volume and surface areas of right
+prisms and cylinders
+
+• Straight forward recall or application of
+results and theory from prior grades
+• Mark given for formulas
+• Recall of definitions and theorems
+• Straight forward application of definition
+and theorems
+
+• Straight forward recall or application
+of results and theory from prior
+grades
+• Marks given for formulas
+• Recall of definitions and theorems
+• Straight forward application of
+definition and theorems
+
+Level 2
+Routine
+Procedures
+(35%)
+
+• Applying results from prior grades to
+solve simple rider problems
+• Proving two triangles congruent when
+information is readily available
+• Proving two triangles similar when
+information is readily available
+• Making and proving conjectures about
+properties of quadrilaterals
+• Problems involving a line segment
+joining the midpoint of two sides in a
+triangle
+• Straight forward calculations of
+volume and surface area of spheres,
+right pyramids and cones
+• Calculating the effect on volume and
+surface area when multiplying with a
+factor k
+
+• Applying results from prior grades to
+solve simple rider problems
+• Prove the theorems of the geometry of
+circles:
+o The line drawn from the centre of a
+circle perpendicular to a chord
+bisects the chord;
+o The perpendicular bisector of a
+chord passes through the centre of
+the circle;
+o The angle subtended by an arc at
+the centre of a circle is double the
+size of the angle subtended by the
+same arc at the circle (on the same
+side of the chord as the centre);
+o Angles subtended by a chord of the
+circle, on the same side of the chord,
+are equal;
+o The opposite angles of a cyclic
+quadrilateral are supplementary;
+o Two tangents drawn to a circle from
+the same point outside the circle are
+equal in length;
+o The angle between the tangent to a
+circle and the chord drawn from the
+
+• Applying results from prior grades to
+solve simple rider problems
+• Prove
+o All theorems from prior grades
+o that a line drawn parallel to one
+side of a triangle divides the other
+two sides proportionally (and the
+Mid-point Theorem as a special
+case of this theorem) ;
+o that equiangular triangles are
+similar;
+o that triangles with sides in
+proportion are similar; and
+o the Pythagorean Theorem by
+similar triangles.
+• Use the above theorems in to solve
+simple riders
+• Use the converse of the above
+theorems in straight forward
+applications
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 22
+
+point of contact is equal to the angle
+in the alternate segment.
+• Use the above theorems in to solve
+simple riders
+• Use the converse of the above
+theorems in straight forward applications
+
+Level 3
+Complex
+Procedures
+(30%)
+
+• Finding unknown angles and side
+lengths that require multiple
+intermediate steps.
+• Using themes and theorems from
+numerous topics to make/prove a
+statement.
+• Prove congruence or similarity when
+multiple steps are required to show
+sides and angles equal.
+• Proving that a quadrilateral satisfies
+the conditions to be a special
+quadrilateral requiring intermediate
+steps.
+
+• Use a combination of theorems with at
+least one theorem from current grade to
+solve riders.
+• Solving riders where there is not an
+obvious path to the solution.
+• Routine procedures without a sketch
+given.
+
+• Use a combination of theorems with
+at least one theorem from grade 11
+or 12 to solve riders.
+• Solving riders where there is not an
+obvious path to the solution.
+• Slightly complex routine procedures
+without a sketch given.
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 23
+
+3.2 Suggested Year Plans and Assessment Plans
+4.2 Grade 10 Year plan and Assessment plan
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+
+The learning program per week is divided between both Topics from Paper 1 and Paper 2. It
+remains the educator’s discretion on how much time should be spent on each depending on the
+topics. Should you not be able to cover all paper 1 and paper 2 work in one week, ensure that all
+work is covered by the time the assessment is done.
+
+Term 1
+Week 1 • Identify Number sets
+
+• Round real numbers to an appropriate
+degree of accuracy.
+• Establish between which two integers a
+given simple surd lies.
+
+• Finding trigonometric ratios from right triangles
+(including reciprocals) where information is
+directly available
+• Find the side length of a right-angle triangle
+given another angle and side length or two sides
+(Pythagoras).
+
+Investigation
+
+Week 2 • Multiplication of a binomial by a trinomial.
+• Common factor and simple difference of
+two squares factorisation.
+
+• Recall trigonometric ratios for the special angles
+up to 90∘
+
+Week 3 • Factorise
+o trinomials
+o grouping in pairs
+o sum and difference of two cubes
+o Grouping in pairs
+(NOTE this very important topic should be addressed for the whole week)
+
+Week 4 • Simplification of algebraic fractions using
+
+factorisation
+
+• Solve equations of the form: Trig-ratio=constant
+for angles between 0
+∘ and 90∘
+
+Week 5 • Simple application of Exponential laws
+(including negative exponents)
+• Two or more steps to simplify
+expressions using exponential laws
+
+• Find an angle in a right-angle triangle given 2
+side lengths.
+
+Week 6 • Simplifying exponential expressions
+requiring factorization of common factors.
+
+• Use diagrams to determine the numerical values
+of ratios for angles from 0
+∘
+to 360∘
+.
+
+Week 7 • Solving linear equations. • Straight forward 2-dimensional trigonometric
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 24
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+
+• Solve literal equations word problems.
+
+Week 8 • Solve Quadratic equations by
+
+factorization.
+
+• Trigonometric equations that requires
+simplification into the correct form firsts.
+
+0Week 9 • Solve simple simultaneous equations • Trigonometry Revision
+Week 10 • Solving one or two step exponential
+
+equations
+• Solving exponential equations requiring
+factorization of common factors.
+
+• Euclidean Geometry:
+o Define Congruency
+o Prove Triangles Congruent
+
+Week 11 • Solving linear inequality
+
+• Representing the solution of inequalities
+graphically
+• Solving compound inequalities.
+
+• Euclidean Geometry:
+o Similarity
+o Proving Triangles similar
+Week 12 • Algebra Revision • Euclidean Geometry:
+
+o Properties of Quadrilaterals
+
+Control Test 1
+(50 Marks 1h)
+Algebra (24)
+Trigonometry
+(26)
+
+Marks to
+be
+submitted
+
+Holiday Internal
+Post
+Moderation
+
+Term 2
+week 13 • Plotting Points
+• The line y = x
+• Filling in table for functions
+• Drawing graphs by plotting
+
+• Euclidean Geometry
+o Property of line joining the midpoints
+of a triangle
+
+week 14 • Draw graphs based on the effect of a
+
+and q
+o y = ax
+2 + q
+
+• Find the x and y intercepts of this
+graph
+
+• Euclidean Geometry:
+o Volume and surface areas of
+▪ Cubes
+▪ rectangular solids
+▪ Spheres,
+▪ pyramids and
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 25
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+
+▪ cones
+
+week 15 • Draw graphs based on the effect of a
+
+and q
+o y =
+a
+x
++ q
+• Find the x and y intercepts of this
+graph
+
+• Euclidean Geometry:
+o Calculating the effect on volume and
+surface area when multiplying with a
+factor k.
+
+week 16 • Draw graphs based on the effect of a
+
+and q
+o y = b
+x + q where b > 0; b ≠ 1
+• Find the x and y intercepts of this
+graph
+
+• Draw graphs based on the effect of a and q
+o y = a sin x + q
+• Find the x and y intercepts of this graph
+
+week 17 • Find the equation of a function with
+
+unknown parameter
+
+• Draw graphs based on the effect of a and q
+o y = a cos x + q
+• Find the x and y intercepts of this graph
+
+week 18 • Solve for f(x) = g(x)
+
+• Solve inequalities based on the graphs
+• Determine characteristics of a function
+produced from a transformation
+o af(x) + q
+o Reflections
+
+• Solve for f(x) = g(x)
+• Solve inequalities based on the graphs
+• Determine characteristics of a function
+produced from a transformation
+o af(x) + q
+o Reflections
+
+Assignment
+Functions and
+Graphs (can be
+done at home)
+
+week 19 Revision Revision
+Midyear Exams (100 Marks 2h)
+Algebra (23); Functions and Graphs (23); Trigonometry (31); Euclidean Geometry (23)
+Could be 2 Paper 50 marks 1h each
+
+Marks to
+be
+submitted
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 26
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+Holiday
+Internal
+Post
+Moderation
+
+Term 3
+week 20 Revision and corrections on Exam Revision and corrections on Exam Teacher
+and
+Learner
+files for
+SACAI
+moderation
+
+week 21 • Find the next (few) term(s) in a number
+
+pattern.
+• Find the n
+th
+term of a linear number
+
+pattern.
+
+• Analytical Geometry
+• Calculating the distance between two
+coordinates
+• Calculate the gradient between two coordinates
+
+week 22 • Find a term's number in a linear number
+
+pattern
+
+• Calculate the Midpoint between two
+coordinates
+• Identify lines that are parallel and
+perpendicular based on their gradients.
+week 23 • Simple interest • Solve problems using analytical Geometry
+week 24 • Compound Interest • Analytical Geometry Revision
+week 25 • Use simple and compound interest
+formulas to solve problems
+
+• Measures of central tendency in ungrouped
+data
+
+week 26 • Probability
+
+o Definition and basic calculations
+o Relative Frequency
+o Contingency Tables
+
+• Statistics: Revision
+o Tabular Representations of Data
+o Measures of Central Tendency for
+ungrouped data
+o Measures of Dispersion: Range
+o Marks given to formulas
+
+Control Test 3
+(50 Marks 1h)
+Number
+Patterns (19)
+Financial
+Mathematics
+(12)
+
+Marks to
+be
+submitted
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 27
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+
+Analytical
+Geometry (19)
+
+week 27 • Probability
+
+o Using the Formula: P(A or B) =
+P(A)+P(B)-P(A and B)
+o Mutually exclusive events: P(A and B)
+= 0
+o Complimentary Events: P(A) = 1-P(B)
+
+• Statistics: Calculating the measures of
+dispersion
+o Quartiles
+o Percentiles
+o Interquartile Range
+o Semi-interquartile Range
+
+week 28 • Probability
+o Venn Diagrams
+
+• Statistics
+o Writing down the five-number summary
+o Draw a Box and Whisker diagram
+
+Control Test 4
+(50 Marks 1h)
+Probability (25)
+Statistics (25)
+
+Holiday
+
+Term 4
+week 29 Algebra Revision Trigonometry Revision Internal
+Post
+week 30 Functions and Graphs Revision Euclidean Geometry Revision Moderation
+week 31 Number Patterns and Finance Revision Analytical Geometry Revision Control Test 5
+(50 Marks 1h)
+Trigonometry
+(25)
+Euclidean- and
+Analytical (25)
+
+week 32 Probability Revision Statistics Revision
+Final Exam
+Paper 1 (100 Marks 2h)
+Algebra (30); Functions and Graphs (30); Number Patterns (15); Financial Mathematics (10); Probability (15)
+Paper 2 (100 Marks 2h)
+Statistics (15); Analytical Geometry (15), Trigonometry (40), Euclidean Geometry (30)
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 28
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 29
+
+4.2 Grade 11 Year plan and Assessment plan
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+
+The learning program per week is divided between both Topics from Paper 1 and Paper 2. It
+remains the educator’s discretion on how much time should be spent on each depending on the
+topics.
+
+Term 1
+Week 1 Exponents Revision Euclidean Geometry Revision: Triangles
+
+and Congruency
+
+Week 2 • rational exponents.
+
+• Surds
+o Simplest surd form
+o Simplifying expressions with surds
+o Rationalizing denominators
+
+Euclidean Geometry Revision: Quadrilateral
+properties
+
+Week 3 • Surds
+
+o Rationalizing denominators
+o Equations with rational exponents
+
+• Prove the theorems of the geometry of
+circles:
+o The line drawn from the centre of a circle
+perpendicular to a chord bisects the
+chord;
+o The perpendicular bisector of a chord
+passes through the centre of the circle;
+
+Investigation
+
+Week 4 Exponents and surds
+
+• Simplifying algebraic fractions with
+exponential expressions that requires
+factorization
+• Solving exponential Equations (may
+require factorization)
+• Rationalizing two term denominators
+
+Euclidean Geometry: Circles
+o The angle subtended by an arc at the
+centre of a circle is double the size of the
+angle subtended by the same arc at the
+circle (on the same side of the chord as
+the centre);
+o Angles in a semi-circle is a right angle
+
+Week 5 Equations and Inequalities Revision Euclidean Geometry: Circles
+
+o Angles subtended by a chord of the
+circle, on the same side of the chord, are
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 30
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+
+equal;
+o The opposite angles of a cyclic
+quadrilateral are supplementary;
+
+Week 6 Equations and Inequalities
+• Completing the square
+• Solving standard quadratic equations
+using the quadratic formula
+
+Euclidean Geometry: Circles
+o The radius is perpendicular to the
+tangent
+o Two tangents drawn to a circle from the
+same point outside the circle are equal in
+length;
+
+Week 7 • Equations that simplify to quadratic
+
+Equations
+o Equations with fractions
+o Equations with roots
+o k-method substitution
+
+Euclidean Geometry: Circles
+o The angle between the tangent to a circle
+and the chord drawn from the point of
+contact is equal to the angle in the
+alternate segment.
+
+Week 8 • Functions and graphs revision
+
+o Straight line
+o Parabola
+
+Euclidean Geometry: Circles
+Solving problems
+
+Week 9 • Functions and graphs
+
+o The parabola in the form y = ax
+2 +
+
+bx + c
+o Shape
+o Intercepts
+o Symmetry Axis
+o Turning point
+o Domain and Range
+
+Trigonometry Revision Control Test 1
+(focus on grade 11
+Content)
+Algebra (24)
+Euclidean
+Geometry (26)
+
+Week 10 • Functions and graphs
+
+o The parabola in the form y =
+a(x − p)
+2 + q
+o shape
+o Intercepts
+o Symmetry Axis
+o Turning point
+o Domain and Range
+
+Trigonometry
+• Deriving fundamental identities
+o tan θ =
+sinθ
+cosθ
+o sin2 θ + cos2 θ = 1
+• simplifying trigonometric expressions using
+fundamental identities
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 31
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+
+• Converting between quadratic formats
+
+Week 11 Algebra
+
+• The Discriminant
+o Formula
+o Meaning
+
+Trigonometry
+• Deriving the reductions formula
+o sin(90° ± θ) ; cos(90° ± θ)
+o sin(180° ± θ) ; cos(180° ± θ) ; tan(180° ±
+θ)
+o sin(360° ± θ) ; cos(360° ± θ) ; tan(360° ±
+θ) Marks to
+be
+submitted
+
+Week 12 Algebra
+
+• Solving Quadratic Inequalities
+• Inequalities with fractions
+
+Trigonometry
+• Simplify trigonometric expressions using
+fundamental identities and reduction
+formulas
+• Prove trigonometric expressions using
+fundamental identities and reduction
+formulas
+Holiday
+
+Internal
+Post
+Moderation
+
+Term 2
+week 13 • Functions and graphs
+
+o The exponential function in the form
+y = cb
+x + a
+o Shape
+o Intercepts
+o Asymptote
+o Domain and Range
+
+Trigonometry
+• Solve trigonometry equations
+o General solution
+o Specific solutions
+• Finding the values for which an identity
+holds/does not hold.
+
+week 14 • Functions and graphs
+
+o The hyperbolic function in the form y =
+a
+x−p
++ q
+o Shape
+
+Trigonometry
+• Sine, cosine and Area rules
+
+Assignment
+Trigonometry (can
+be done at home)
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 32
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+
+o Intercepts
+o Asymptotes
+o Domain and Range
+week 15 • Functions and graphs
+
+o The trigonometric function in the form
+y = a sin(pθ ± b) + c and y =
+a cos(pθ ± b) + c
+o Shape
+o Intercepts
+o Turning points
+o Amplitude
+o Period
+o Domain and Range
+
+Trigonometry: Revision
+
+week 16 • Functions and graphs
+
+o The trigonometric function in the form
+y = a tan(pθ ± b) + c
+o Shape
+o Intercepts
+o Period
+o Domain and Range
+
+Analytical Geometry: Revision
+
+week 17 Number Pattern Revisions Analytical Geometry:
+
+• Find the equation of a line between two
+points
+• Find the equation of a line though one point
+and parallel to a given line
+• Find the equation of a line through one point
+and perpendicular to a given line
+
+week 18 Number Patterns
+
+• Quadratic Number Pattern
+o Finding General Term
+
+Analytical Geometry:
+• Find the inclination angle of a line of the line
+between two points
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 33
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+
+o Solving Problems relating to Quadratic
+
+week 19 Number Patterns
+• Revision and Practice
+
+Analytical Geometry:
+Solving analytical geometry problems
+
+Midyear Exam
+P1 (100 Marks 2h)
+Algebra (43); Functions and Graphs (43); Number Patterns (14)
+P2 (100 Marks 2h)
+Analytical Geometry (24); Trigonometry (38); Euclidean Geometry (38)
+
+Marks to
+be
+submitted
+
+Holiday Internal
+Post
+Moderation
+
+Term
+3
+week 20 Exam Revision Exam Revision Teacher
+and
+Learner
+files for
+SACAI
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 34
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+moderation
+
+week 21 Financial Mathematics Revision Statistics Revision
+Statistics:
+• Calculate Variance and standard deviation
+of ungrouped data
+• Draw histograms
+• Draw frequency polygons
+
+week 22 Financial Mathematics
+
+• Decay
+o Straight line Method
+o Reducing Balance Method
+
+Statistics
+• Draw Ogives (cumulative frequency curves)
+• Use the ogive to estimating the quartiles
+
+week 23 Financial Mathematics
+• Different compound periods
+o solving variables in the compound
+interest formula
+o Effective Interest rate
+
+Statistics
+• Determine symmetric and skewed data
+o Using measures of Central Tendency
+o Using graphical representations of data
+• Identification outliers
+o with a calculation
+o in a scatter plots
+o using a box and whisker diagram
+
+week 24 Probability Revision Statistics
+
+• Find the percentage of observations that
+will lie within a given number of standard
+deviations from the mean.
+
+week 25 Probability
+
+• Contingency Tables
+• Independent events P(A) × P(B) =
+P(A and B)
+
+Euclidean Geometry Revision
+
+week 26 Probability & Counting
+• Tree diagram
+
+Euclidean Geometry Revision Marks to
+be
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 35
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+
+week 27 Algebra Revision Trigonometry Revision Control Test
+3(focus on Grade
+11 content)
+Financial
+Mathematics (14)
+Probability (18)
+Statistics (18)
+
+submitted
+
+week 28 Algebra Revision Trigonometry Revision Control Test 4
+(focus on Grade 11
+content)
+Algebra (16)
+Euclidean
+Geometry (17)
+Trigonometry (17)
+
+Holiday
+
+Term 4
+week 29 Functions and Graphs Revision Analytical Geometry Revision Internal
+Post week 30 Number Patterns Revision Moderation Statistics Revision
+week 31 Financial Mathematics Revision Revision Control Test 5
+(focus on Grade 11
+content)
+Functions and
+Graphs (23)
+Number Patterns
+(13)
+Analytical
+Geometry (14)
+
+week 32 Probability Revision Revision
+Midyear Exam
+P1 (150 Marks 3h)
+Algebra (45), Functions and Graphs (45), Number Patterns (25), Financial Mathematics (15), Probability (20)
+P2 (150 Marks 3h)
+Statistics (20), Analytical Geometry (30), Trigonometry (50), Euclidean Geometry (50)
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 36
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 37
+
+4.2 Grade 12 Year plan and Assessment plan
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+
+The learning program per week is divided between both Topics from Paper 1 and Paper 2. It
+remains the educator’s discretion on how much time should be spent on each depending on the
+topics.
+
+Term 1
+Week 1 Algebra Revision Euclidean Geometry Revision
+Week 2 Algebra Revision Euclidean Geometry Revision
+Week 3 Exponents and logarithms:
+o Exponent Revision
+o Write exponential expressions in
+logarithmic form
+o Basic Logarithmic laws
+
+Euclidean Geometry: Similar Triangles
+• that a line drawn parallel to one side of a
+triangle divides the other two sides
+proportionally (and the mid-point Theorem as
+a special case of this theorem)
+• that equiangular triangles are similar;
+
+Week 4 Solving Exponential Expressions with
+
+logarithms
+
+Euclidean Geometry: Similar Triangles
+• that triangles with sides in proportion are
+similar; and
+• the Pythagorean Theorem by similar
+triangles.
+
+Week 5 Functions and Graphs Revision Euclidean Geometry: Similar Triangles
+• Solving problem involving Similar
+Triangles
+
+Assignment
+Similar Triangles
+(can be done at
+home)
+
+Week 6 Functions and Graphs Revision Trigonometry Revision
+Week 7 Functions and Graphs Revision Trigonometry Double and Compound Angles
+• Proving compound and double angle
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 38
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+
+identities
+
+Week 8 Functions and Graphs: The Inverse
+
+Function
+• Define a function
+• Define one-to-one and one-to-many
+functions
+• Show that a function is one-to-one
+• Find the inverse of basic functions
+o y = ax + q
+o y = ax
+2
+o y = b
+x
+
+Using double and compound angle to
+• Simplify trigonometric Expressions
+• Prove trigonometric identities
+• Trigonometric Equations
+
+Project
+Trigonometry (due
+end of term or the
+beginning of the
+next term and can
+be done at home)
+
+Week 9 Functions and Graphs: The Inverse
+
+Function
+• Sketch the functions and their
+inverses on the same set of axis.
+
+Trigonometry Double and Compound Angles
+• Solving 2D and 3D problems involving sine,
+cosine and area rules that include double
+and compound angles
+
+Week 10 Calculus
+
+• Find the limit of an expression that
+requires simplification first
+
+Euclidean Geometry Revision Control Test 1
+(focus on grade 12
+Content)
+Inverse Functions
+(14)
+Trigonometry (16)
+Euclidean
+Geometry (20)
+
+Teacher
+File Ready
+for SACAI
+Moderation
+
+Week 11 • Find the derivative of a function from
+
+first principles
+o y = ax
+2 + bx + c
+o y = ax
+3
+o y =
+a
+x
+o y = c
+
+Trigonometry Revision
+
+Marks to
+be
+submitted
+
+Week 12 • Steps to find the derivative
+
+Holiday
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 39
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+Internal
+Post
+Moderation
+
+Term 2
+week 13 • Finding the derivative of expressions
+that require simplification first
+
+week 14 • Find the average gradient between two
+
+points on a function
+• The derivative as a formula of the
+gradient
+• Finding the instantaneous gradient at a
+given point
+• Determine the equation of the tangent
+line to a simple polynomial function
+
+Analytical Geometry Revision
+
+week 15 Calculus Application: Polynomial Graphs
+• Cubic functions of the form y = ax
+3 +
+
+bx
+2 + cx + d
+o Shape
+o Intercepts
+o Turning points
+
+Analytical Geometry Circles in the Cartesian
+Plane
+• The equation of a circle on the Cartesian
+plane
+o (x − p)
+2 + (y − q)
+2 = r
+2
+o Centre of the circle
+o radius of a circle
+
+week 16 Calculus rate of change application (including
+
+motion)
+
+Tangent lines to the circle
+o Find the equation of a tangent line to a
+circle (centre given) at a given point
+
+week 17 Sequences:
+
+Find the Generals term and solve
+problems relating to
+• Arithmetic Sequence
+• Geometric Sequence
+
+Find the relationships between two circles:
+o Intersections
+o Tangent
+
+week 18 Sequences
+
+Find the Generals term and solve
+problems relating to
+• Quadratic Sequence
+Series
+Find the sum of n terms and solve problems
+
+Analytical Geometry: Solving problems
+
+Control Test 2
+(focus on Grade
+12 content)
+Calculus (25)
+Analytical
+Geometry (25)
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 40
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+
+relating to
+• Arithmetic series
+
+week 19 Series
+
+Find the sum of n terms and solve problems
+relating to
+• Geometric Series
+• Infinite Geometric Series
+
+Statistics Revision
+
+Midyear Exam
+P1 (150 Marks 3h)
+Algebra (30), Functions and Graphs (45), Calculus (45), Number Patterns (30)
+P2 (150 Marks 3h)
+Statistics (20), Analytical Geometry (40), Trigonometry (40), Euclidean Geometry 50)
+
+Marks to
+be
+submitted
+
+Holiday Internal
+Post
+Moderation
+
+Term 3
+week 20
+
+Financial Mathematics Revision
+• Solve n in
+o F = P(1 + i)
+n
+o F = P(1 − i)
+n
+
+Statistics Revision Teacher
+and
+Learner
+files for
+SACAI
+moderation
+
+week 21
+
+Financial Mathematics Annuities
+• Derivation of the future value of annuity
+
+Statistics Regression Lines
+o Draw a scatter-plot
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 41
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+
+• Solve any unknown in the future value
+annuity formula
+
+o Use a calculator to find the Least
+regression line
+o Draw a least square regression line on
+scatter plot
+o Use least square regression line to make
+predictions
+o Interpolation
+o Extrapolation
+
+week 22
+
+Financial Mathematics Annuities
+• Derivation of the Present value of annuity
+• Solve any unknown in the future value
+annuity formula
+• Outstanding balance on a loan Euclidean Geometry Revision
+week 23 Probability Revision Trigonometry Revision
+
+week 24
+
+Probability and counting
+• Fundamental Counting Principals
+o Independent events
+o Dependent events
+o Solving problems and probabilities
+requiring counting principals. Analytical Geometry Revision
+
+week 25 Revision Statistic Revision
+
+Control Test 3
+(focus on Grade
+12 content)
+Sequences and
+series (22)
+Financial
+Mathematics (14)
+Probability (14)
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 42
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+
+Prelim Exam
+P1 (150 Marks 3h)
+Algebra (25), Functions and Graphs (35), Calculus (35), Number Patterns (25), Financial Mathematics (15), Probability (15)
+P2 (150 Marks 3h)
+Statistics (20), Analytical Geometry (40), Trigonometry (40), Euclidean Geometry (50)
+
+Marks to
+be
+submitted
+
+Holiday
+
+Term 4
+week 26 Revision Revision Internal
+Post
+week 27 Revision Revision Moderation
+week 28 Revision Revision
+
+week 29 Revision Revision
+
+Teacher,
+Learner
+files and
+final Mark
+sheet for
+SACAI
+moderation
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 43
+
+Weeks Paper 1 Paper 2
+
+Suggested
+Assessment
+Plan
+
+Other
+Events
+
+Final Exam
+P1 (150 Marks 3h)
+Algebra (25), Functions and Graphs (35), Calculus (35), Number Patterns (25), Financial Mathematics (15), Probability (15)
+
+P2 (150 Marks 3h)
+Statistics (20), Analytical Geometry (40), Trigonometry (40), Euclidean Geometry (50)
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 44
+4. ASSESSMENT GUIDELINES
+4.1.1 Informal or daily assessment
+SACAI promotes and encourages alternative methods of education and assessment.
+Though the formal assessment program is rigid the intention is that all assessment should
+be learning opportunities.
+The Informal assessment provide the opportunity for each educator to design methods of
+assessment that will benefit a specific group and its individuals. These may off course
+include smaller tests (specifically testing Cognitive level 1 and 2 skills) but should also
+include alternative forms such as investigations, discussions, presentations, research
+papers and practical applications.
+4.1.2 Formal assessment (SBA requirements)
+The formal assessments are all those components that contribute with the final exam to
+the final mark. The following is a description of each type of assessment in the
+Assessment Program.
+NO SBA TASKS MAY BE USED FROM TEXTBOOK TO WHICH THE STUDENT HAVE
+ACCESS. If a task is used from a resource, it may not be copied from the resource but
+must be retyped.
+YOU MAY NOT GIVE A PAST EXAM PAPER AS AN EXAM PAPER. If past papers are
+used to set exam question it must come from a range of different papers and other
+resources. Remember problem solving questions must be questions that students have
+never seen before, therefor they may not be from past papers to which students may have
+access.
+Here follows an explanation of what constitutes an exam, test, assignment, investigation or
+project.
+▪ Examinations
+All tests and Exams have a timed duration of 1,2 Minutes per mark
+Midyear Exams
+The midyear exams must be conducted under strict examination procedures and time
+keeping.
+The question paper does NOT have to follow the exact format for the final exam as
+stipulated by the exam guidelines, but it must be weighted appropriately according to
+the weightings in the final exam with regards to the topics and cognitive distribution.
+The exam therefor does not have to be two exam papers, but a single paper of 150
+marks for 3 hours will be sufficient or two papers for 100 marks may also be sufficient.
+No notes, books or any other resource may be used or retained by the learners during
+the exam.
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 45
+The Prelim exams
+Grade 12 learners write another examination before the final exam called the
+preliminary or trial exams. It is important and advised that this exam follows the format
+that the candidate may expect in the final exam and it has to be two 3 hour papers of
+150 marks each.
+This exam is done under the strictest possible examination conditions.
+▪ Control Test
+All tests and Exams have a timed duration of 1 - 2 Minutes per mark
+Control Tests are also done under strict exam conditions. Again, students may not use
+notes, books or any other resource to answer control test questions.
+Control tests are recommended to be only a 1 hour paper of 50 marks each.
+At least one control test is done every term (except in term 4 for grade 12 who will do a
+prelim exam) and should therefore be based on topics addressed in that term. It
+should be restricted to 2 or at most 3 topics. Because of this it is recommended that
+only current grade topics be assessed.
+Control tests must be weighted proportionally to what can be expected in the final
+exam with regards to topics and cognitive levels.
+▪ Assignments
+Assignments are tasks that student may complete in their own time at home. Therefor
+an assignment will be based on more challenging questions in a given topic, in other
+words it will only consist of complex procedures and problem-solving questions. It
+should not contain questions that the students have seen before.
+Despite not being done under controlled conditions it remains an individual task and
+students may not copy each other’s work or assist each other.
+▪ Investigation
+Either a project OR investigation set in a year not both. Investigations are set to
+develop the skills of systematic investigation into special cases with a view to
+observing general trends, making conjectures and proving them. To avoid having to
+assess work which is copied without understanding, it is recommended that while the
+initial investigation can be done at home, the final write up should be done in class,
+under supervision, without access to any notes. Investigations are marked using
+rubrics which can be specific to the task, or generic, listing the number of marks
+awarded for each skill:
+40% for communicating individual ideas and discoveries, assuming the reader has not
+come across the text before. The appropriate use of diagrams and tables will enhance
+the investigation. 35% for the effective consideration of special cases; 20% for
+generalising, making conjectures and proving or disproving these conjectures; and
+5% for presentation: neatness and visual impact.
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 46
+▪ Projects
+Either a project or investigation should be done in a year, not both. The assessment
+criteria need to be clearly indicated on the project specification. The focus should be
+on the mathematics involved and not on duplicated pictures and regurgitation of facts
+from reference material.
+Projects are also marked with a Rubric.
+
+Marking guidelines
+All Marking Guidelines must have the following features
+▪ Neatly typed out
+▪ Alternative solutions
+▪ Mark allocations
+▪ Explanations of marks
+▪ Indication of Cognitive Level
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 47
+Here is an example:
+?.? Consider the diagram
+
+-2 -1 1 2 3
+-1
+1
+2
+3
+
+x
+
+y
+
+f
+g
+
+Find the value for x for which
+?.?.1 f(x) = g(x) (1)
+
+x = −1 ✓
+
+?.?.2 g(x) − f(x) = 2 (2)
+
+x = 0 ✓✓ Answer only
+
+(If incorrect answer one mark can be
+given if the student somehow showed
+that g(x)-f(x) is the distance between
+the two graphs
+
+?.?.3 f
+−1
+(g(x)) = −2 (3)
+f
+−1
+(k) = −2
+k = 3
+k = g(x) = 3
+x = 1
+
+Or
+If the inverse for f at g(x) gives a value
+-2 then f(-2) is equal to g(x).
+g(x) = 3 and g(x)=3 for x = 1
+Or
+f
+−1
+(g(x)) = −2
+g(x) = f(−2)
+g(x) = 3
+x = 1
+
+OR
+f
+−1
+(x) = log1
+2
+(x + 1)
+
+f
+−1
+(g(x)) = −2
+log1
+2
+( x + 2 + 1) = −2
+(
+1
+2
+)
+−2
+= x + 3
+4 = x + 3
+x = 1
+
+✓ correct interpretation of the
+expression
+✓ correct value for g(x)
+✓ Final answer followed up previous
+step.
+
+In this Example the colour of the tick marks represented the Cognitive level as defined by
+a Key at the beginning of the memorandum.
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 48
+4.2.1 Programme of assessment: Grade 10
+
+2021
+Graad 10 / Grade 10
+
+Assesseringsprogram / Assessment Programme
+Wiskunde / Mathematics
+
+Kwartaal / Term Taak / Task Totaal / Total
+Kwartaal 1
+Term 1
+
+Taak 1
+Task 1
+
+Ondersoek
+Investigation 50
+
+Taak 2
+Task 2
+
+Toets 1
+Test 1 50
+
+Kwartaalpunt
+Term mark
+
+Toets 75% + Ondersoek 25%
+Test 75% + Investigation 25% 100
+
+Kwartaal 2
+Term 2
+
+Taak 3
+Task 3
+
+Opdrag
+Assignment 50
+
+Taak 4.1
+Task 4.1
+
+Halfjaareksamen V 1
+Midyear exam P1 50
+
+Taak 4.2
+Task 4.2
+
+Halfaareksamen V2
+Midyear exam P2 OF/OR 50
+
+Taak 4
+Task 4
+
+Halfaareksamen
+Midyear exam 100
+
+Kwartaalpunt
+Term mark
+
+Eksamen 75% + Opdrag 25%
+Examination 75% + Assignment 25% 100
+
+Kwartaal 3
+Term 3
+
+Taak 5
+Task 5
+
+Toets 2
+Test 2 50
+
+Taak 6
+Task 6
+
+Toets 3
+Test 3 50
+
+Kwartaalpunt
+Term mark
+
+Toets 50% + Toets 50%
+Test 50% + Test 50% 100
+
+Kwartaal 4
+Term 4
+
+Taak 7
+Task 7
+
+Toets 4
+Test 4 50
+
+Taak 8.1
+Task 8.1
+
+Finale Eksamen V1
+Final Examination P1 100
+
+Taak 8.2
+Task 8.2
+
+Finale Eksamen V2
+Final Examination P2 100
+
+Promosiepunt / Promotion mark
+Ondersoek 20% + Toets 1 10% + Opdrag 10% + Halfjaareksamen 30% + Toets 2
+10% + Toets 3 10% + Toets 4 10% = 100. Verwerk Eksamenpunt na 300. Totaal
+400.
+Investigation 20% + Test 1 10% + Assignment 10% + Midyear Exam 30% + Test
+2 10% + Test 3 10% + Test 4 10% = 100. Convert Exam mark to 300. Total 400.
+
+400
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 49
+4.2.2 Programme of assessment: Grade 11
+
+2021
+Graad 11 / Grade 11
+
+Assesseringsprogram / Assessment Programme
+Wiskunde / Mathematics
+
+Kwartaal / Term Taak / Task Totaal / Total
+Kwartaal 1
+Term 1
+
+Taak 1
+Task 1
+
+Ondersoek
+Investigation 50
+
+Taak 2
+Task 2
+
+Toets 1
+Test 1 50
+
+Kwartaalpunt
+Term mark
+
+Toets 75% + Ondersoek 25%
+Test 75% + Investigation 25% 100
+
+Kwartaal 2
+Term 2
+
+Taak 3
+Task 3
+
+Opdrag
+Assignment 50
+
+Taak 4.1
+Task 4.1
+
+Halfjaareksamen V 1
+Midyear exam P1 100
+
+Taak 4.2
+Task 4.2
+
+Halfaareksamen V2
+Midyear exam P2
+
+100
+
+Kwartaalpunt
+Term mark
+
+Eksamen 75% + Opdrag 25%
+Examination 75% + Assignment 25% 100
+
+Kwartaal 3
+Term 3
+
+Taak 5
+Task 5
+
+Toets 2
+Test 2 50
+
+Taak 6
+Task 6
+
+Toets 3
+Test 3 50
+
+Kwartaalpunt
+Term mark
+
+Toets 50% + Toets 50%
+Test 50% + Test 50% 100
+
+Kwartaal 4
+Term 4
+
+Taak 7
+Task 7
+
+Toets 4
+Test 4 50
+
+Taak 8.1
+Task 8.1
+
+Finale Eksamen V1
+Final Examination P1 150
+
+Taak 8.2
+Task 8.2
+
+Finale Eksamen V2
+Final Examination P2 150
+
+Promosiepunt / Promotion mark
+Ondersoek 20% + Toets 1 10% + Opdrag 10% + Halfjaareksamen 30% + Toets 2
+10% + Toets 3 10% + Toets 4 10% = 100. Verwerk Eksamenpunt na 300. Totaal
+400.
+Investigation 20% + Test 1 10% + Assignment 10% + Midyear Exam 30% + Test
+2 10% + Test 3 10% + Test 4 10% = 100. Convert Exam mark to 300. Total 400.
+
+400
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 50
+4.2.3 Programme of assessment: Grade 12
+
+5 2022
+6 Graad 12 / Grade 12
+
+7 Assesseringsprogram / Assessment Programme
+8 Wiskunde / Mathematics
+
+Kwartaal / Term Taak / Task Totaal / Total
+Kwartaal 1
+Term 1
+
+Taak 1
+Task 1
+Toets
+Test 50
+
+Taak 2
+Task 2
+
+Opdrag
+Assignment 50
+
+Kwartaalpunt
+Term mark
+
+Toets 75% + Opdrag 25%
+Test 75% + Assignment 25% 100
+
+Kwartaal 2
+Term 2
+
+Taak 3
+Task 3
+
+Projek
+Project 50
+
+Taak 4
+Task 4
+Toets
+Test 50
+
+Taak 5
+Task 5
+
+Halfaareksamen 1 Vraestel
+Midyear exam 1 Paper 150
+
+Kwartaalpunt
+Term mark
+
+Eksamen 50% + Toets 25% + Projek 25%
+Examination 50% + Test 25% + Project 25% 100
+
+Kwartaal 3
+Term 3
+
+Taak 6
+Task 6
+
+Toets 2
+Test 2 50
+
+Taak 7.1
+Task 7.1
+
+Voorbereidende Eksamen V1
+Trial Exam P1 150
+
+Taak 7.2
+Task 7.2
+
+Voorbereidende Eksamen V2
+Trial Exam P2 150
+
+Kwartaalpunt
+Term mark
+
+Toets 25% + Eksamen 75%
+Test 25% + Examination 75% 100
+
+Kwartaal 4
+Term 4
+
+Taak 8.1
+Task 8.1
+
+Finale Eksamen V1
+Final Examination P1 100
+
+Taak 8.2
+Task 8.2
+
+Finale Eksamen V2
+Final Examination P2 100
+
+SBA punt / SBA mark
+Taak 1 (10%) + Taak 2 (10%) + Taak 3 (20%) + Taak 4 (10%) + Taak 5 (15%) +
+Taak 6 (10%) + Taak 7 (25%)
+Task 1 (10%) + Task 2 (10%) + Task 3 (20%) + Task 4 (10%) + Task 5 (15%) +
+Task 6 (10%) + Task 7 (25%)
+
+100
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 51
+9 EXAMINATION PAPERS AND CONTROLLED TESTS
+(See EXAMINATION GUIDELINES (Sect C) for GRADE 12 information)
+
+5.1.1 Format of controlled tests and examination papers
+
+All tests and Examinations must have the following format that should be displayed on the
+front of the question paper
+• Date
+• Total
+• Time allocation (All tests and Exams have a timed duration of 1,2 Minutes per mark
+• Test Name: E.g. Control Test 1 or Midyear Exam Paper 1
+
+5.1.2 Mark allocation
+Mark allocation must be clearly indicated next to each question and the assessor should
+use the following principles to allocate marks:
+1. Each mark should reflect a significant cognitive process
+2. the total marks should reflect an average thinking and writing time of 1 - 2 min per
+mark.
+Based on these principles here are some suggestions on what marks may be awarded for.
+A mark may be awarded for:
+• recalling a fact or specific formula only once.
+• the method if it is a valid option to a solution
+• writing an expression in its standard form
+• each correct factorization.
+• for each factor in more complicated or unusual factorization
+• correct substitution (but not per value substituted)
+• each correct conversion of values before they are applied or once in the application
+• each significant application step
+• a correct application of a law, definition or theorem
+• significant simplification steps
+• interim answers, that will be used to get to the final
+• final answers correctly rounded and including units (if applicable)
+• each important characteristic of a graph drawn
+• correctly plotting a coordinate (or even a few)
+• for a yes/no answer and another mark if it requires a reason.
+• for each relevant insight in a reasoning.
+• recognizing a pattern or application of theory.
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 52
+5.1.3 Cognitive Analysis
+We have at length explained the importance and differentiation of cognitive levels thus
+far, but here is a short summary:
+Cognitive
+Level Description
+
+Knowledge
+
+Knowledge marks are awarded for recalling from memory or skills that
+should be part of the
+learner’s skillset in the grade.
+• Straight recall of facts
+o Definitions
+o Theorems
+• Mundane Procedure
+o Marks awarded for very simple calculation
+o Marks awarded for calculation that is considered single step
+routine procedure in a lower grade
+
+Routine
+Procedures
+
+Generally routine procedure marks are awarded for steps and
+applications that a learner would have encountered in the class and
+textbooks.
+• Generally, questions that are similar to what has been encountered
+in the class for that grade.
+• Basic repeatable procedure for solving problems that has been
+taught
+• Drawing graphs when the essential information is available
+• Prescribed proofs and derivations of formulas
+• Grade specific marks awarded for
+o substitution
+o solving
+o simplifying
+o estimation or rounding of an answer
+o using the correct formula
+o changing the subject of an equation
+• Straight forward application of knowledge and theory for that grade
+
+Complex
+Procedures
+
+Complex Procedure marks are awarded to for calculations that go
+beyond what is normally encountered in class, or it relies on application
+of a combination of themes. Complex procedure marks are generally not
+rewarded for single marks.
+• Common procedures in an uncommon, not immediately recognisable
+format.
+• Complex calculations
+• Questions that require different routine procedures to find the final
+answer.
+• Requires application of topics from different themes
+• Higher order reasoning: Analyse, evaluate or create
+o Evaluations and interpretations
+o Not prescribed proofs and deriving of formulas
+
+Problem
+Solving
+
+Could be knowledge, routine or complex procedure but first requires a
+problem-solving step or insight into a unique scenario that is not
+apparent or has not been formally taught.
+
+SACAI MATHEMATICS SUBJECT GUIDELINES GRADE 10-12
+
+Last updated: July 2021 53
+5.3.1 Cognitive analysis Grids for tests/question papers
+
+ALL TESTS AND EXAMINATIONS MUST HAVE A COGNITIVE ANALYSIS GRID.
+The cognitive analysis grid is a tool / table that allocates each mark or question into the
+relevant cognitive skill category. The totals are added up and shown as a percentage of
+the total. This must be distributed in accordance with what can be expected in the final
+exam, in other words:
+Knowledge Routine
+Procedures
+
+Complex
+Procedures
+
+Problem-solving
+20% 35% 30% 15%
+An Excel cognitive analysis tool is available on the SACAI forum for Mathematics.
